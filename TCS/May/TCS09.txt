@@ -1,0 +1,57 @@
+P0:
+x0 := x1;
+LOOP x2 DO x0 := x0 + 1 END
+
+a)
+P1:
+x0 := x3;
+LOOP x4 DO x0 := x0 - 1 END
+
+b)
+P2:
+LOOP x6 DO x0 := x0 + x5 END
+
+c)
+P3:
+x8 := x8 - 1;
+x0 := x7;
+LOOP x8 DO x0 := x0 * x7 END
+
+d)
+P4:
+x9 := n;
+x10 := 1;
+x0 := 1;
+LOOP x9 DO 
+x0 := x0 * x10
+x10 = x10 + 1
+END
+IF x9 = 0 THEN x0 := 0 END
+
+e)
+P5:
+x12 := n;
+x13 := 1;
+x0 := 1;
+x14 = x12 - 2;
+LOOP x14 DO
+x0 := x0 + x13
+x13 := x0 - x13
+END
+IF x12 = 0 THEN x0 := 0 END
+x12 := x12 - 1;
+IF x12 = 0 THEN x0 := 1 END
+
+/2
+f(x) = a0 * x^0
+	 = a0 * 1
+	 
+LOOP a0 DO x0 := x0 + 1 END
+
+g(x) = a0 * x^0 + a1 * x^1 = an * x^n + an+1 * x^n+1
+LOOP an DO x0 := x0 + x^0 END
+LOOP an+1 DO
+	LOOP x^n+1 DO
+		x0 := x0 + 1
+	END
+END

@@ -1,0 +1,20 @@
+							Actual Class
+							Cat | not a Cat
+Predicted Class Cat			30	| 30
+				not a Cat	10	| 930
+
+/1a
+Precision: Positive/Negative Predictive Rate
+PPR = TP/(TP+FP) = 30/(30+30) = 50%
+
+Recall: Sensitivity, hit rate, True Positive Rate
+TPR = TP/(TP+FN) = 30/(30+10) = 75%
+
+Accuracy: 
+ACC = correct/all = (30+930)/(30+930+30+10) = 96%
+
+F1-Score: F measure
+F1 = 2TP/(2TP+FP+FN) = 2*30/(2*30+30+10) = 60%
+
+Matthews correlation coefficient:
+MCC = (TP*TN + FP*FN)/sqrt((TP+FP)*(TP+FN)*(TP+FP)*(TP+FN)) = (30*930 + 30*10)/sqrt(60*40*960*940) = 0.60595998217 = 60.6%

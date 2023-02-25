@@ -1,0 +1,14 @@
+/1
+^[0-9a-z._%+-]+@[0-9a-z.-]+\.[a-z]{2,}$
+
+1) 
+^[a-z0-9._%+-]+@([a-z0-9-]+\.)+[a-z]{2,}$    (this is a corrected version that does not allow multiple dots directly one after the other)
+
+
+
+/2
+^[a-z]*(\.[a-z]*)?\.[a-z]*@(stud.)?(fh-r|hs-r|th-r)+\.(de|com)$
+
+2) 
+^[a-z]+\.([a-z]\.)?[a-z]+@(stud\.)?(fh|hs|th)-r\.(com|de)$
+

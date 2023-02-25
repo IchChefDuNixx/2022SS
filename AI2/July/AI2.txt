@@ -1,0 +1,68 @@
+Chapter 2:
+always re-do calculations after choosing a (root) node
+
+93 Finding root node of decision tree by calculating InfoGain.
+highest InfoGain -> root. lower InfoGain -> leaf nodes
+InfoGain = total Entropy w.r.t. resulting class subtracted by InfoGain of one feature
+
+Gini Index/Impurity
+98 G = 1 - sum((probability of feature i)^2)
+G = 0 -> pure
+G = 1 -> random
+root is the feature with lowest impurity value
+
+Ex 3: Classifier Evaluation
+113	Confusion Matrix
+117	Accuracy
+114	Sensitivity
+115	Specificity
+119	Precision
+120	F Score
+121	Informedness
+122	Markedness
+123	MCC
+124 MPCA/MPCE
+131 MAE
+132 MAPE
+133 MSE
+
+Ex 4: Perceptron
+153 Learning Rule
+
+Ex 6: Tensors
+definition of sigmoid(x)
+definition of softmax
+definition of LCE/Entropy
+
+Ex 7:
+250 AF Properties
+derivate of tanh(x)
+
+Ex 8:
+layer size:
+
+convolution: [original length - filter length] + 1
+always possible?
+
+pooling: [(original length - step size) / step size] + 1
+possible iff input is evenly divisible by pool(size, step)
+
+Ex 9:
+see NLPAnswers.txt
+
+mock exam:
+see Whiteboard "AI mock exam"
+/1a - Activation Functions l.38
+- Algorithms for Decision Trees: Gini Index/Impurity, Entropy
+- tanh(x)'
+
+b)
+P(w|x,y,z) = P(x|w)*P(y|w)*P(z|w)*P(w)
+
+/2 -
+
+/3a
+XOR diagram
+
+/6
+stuff?

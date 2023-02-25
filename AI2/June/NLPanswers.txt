@@ -1,0 +1,49 @@
+/1
+a Information Extraction, Sentiment Analysis, 
+b 	Spam, Part of Speech tagging
+	Parsing, Machine Translation, Sentiment Analysis, Information Extraction
+	Paraphrasing, Dialog
+c ambiguous sentence that can be interpreted in a funny (wrong) way
+d 1 teacher strikes idle kids
+		N		V	  N	   N
+		NP		|	  	NP
+			VP
+				Sentence
+				
+  2 teacher strikes idle kids
+		N		N	  V	   N
+			NP		  |	  NP
+						VP
+				Sentence
+e non-standard english, idioms, tricky entity names, neologisms
+
+/2
+a a token is an occurence of a word-like input. a type is a collection of similar words, counted uniquely
+b a corpus is a data set of words/sentences
+c the vocabulary is the list of all unique occurences
+d depending on the way of counting. 20k in normal speech, up to 1 million with names and such
+e "the"
+f in a language without spaces, splitting it correctly, capitalization, how to interpret -.', entity names
+g in german we don't split combined nouns but instead link them, which results in long words which can't be easily split again.
+
+/3
+a reducing words to lower case with exceptions for entity names / abbreviations
+b lemmatization means treating words from the same stem as as the same word
+c this algorithm converts english words into better tokenizable words by cutting unnecessary suffixes
+
+/4
+a cat
+b goose
+c better if noun, good if verb
+
+/5
+a binary classifier
+b whether it's followed by blanks, whether it's followed by a capital letter, whether it's part of an abbreviation, numerical probability when looking at the words around it
+
+/6
+a language models calculate probabilites of words in a sentence given some information like previous words
+b help with translations, spelling corrections or predictions
+c it assumes that the next word is depending on the 1-2 words before it and it's used for predictions.
+d P(A) * P(B) * P(C) * P(D) * P(E)
+e P(A) * P(B|A) * P(C|B) * P(D|C) * P(E|D)
+f natural languages have long term dependencies which would need many very long calculations and therefore are impractical to implement but in general 3-4 -grams are constraining enough to get a useful result
