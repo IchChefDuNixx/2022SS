@@ -1,0 +1,23 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "src\\Exercise01",
+        "src\\Exercise02",
+        "src\\Exercise03",
+        "src\\Exercise03Test",
+        "src\\Exercise04",
+        "src\\Exercise05",
+        "src\\Exercise06",
+        "src\\Exercise07",
+        "src\\Exercise09",
+        "src\\Exercise10",
+        "src\\Exercise11",
+        "src\\Exercise12",
+        "src\\Exercise08",
+        "lib",
+        "Fun"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}

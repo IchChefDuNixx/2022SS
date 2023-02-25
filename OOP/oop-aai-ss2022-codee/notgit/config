@@ -1,0 +1,21 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://inf-git.fh-rosenheim.de/hoka416/oop-aai-ss2022-code.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "exercises"]
+	remote = origin
+	merge = refs/heads/exercises
+[branch "solutions"]
+	remote = origin
+	merge = refs/heads/solutions
+[atomGithub]
+	historySha = 606e3cdbc4aa1e748821c067291fedd65712f3e9

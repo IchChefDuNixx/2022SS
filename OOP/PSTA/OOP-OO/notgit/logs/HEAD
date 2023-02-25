@@ -1,0 +1,81 @@
+0000000000000000000000000000000000000000 fa7a410578599002e362e9c1578768d65adeac64 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1648044237 +0100	clone: from https://inf-git.fh-rosenheim.de/studrybist5760/oop-o.git
+fa7a410578599002e362e9c1578768d65adeac64 1af7eb83ca844853da52217a102d0311803af375 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1648044944 +0100	commit: First edit
+1af7eb83ca844853da52217a102d0311803af375 7082ba1d665fee9d6a45182b7be144f7a66be853 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1648048703 +0100	commit: still WIP
+7082ba1d665fee9d6a45182b7be144f7a66be853 bdbe40097a5ab203d97aeae585dd3431aa2b30e3 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1648049042 +0100	commit: still WIP
+bdbe40097a5ab203d97aeae585dd3431aa2b30e3 8a98f4dcd1a1593551e323809d7cc32e1e5b82e8 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1648389713 +0200	pull undefined main: Fast-forward
+8a98f4dcd1a1593551e323809d7cc32e1e5b82e8 c4a78bda80d47350517fbfd618865f13ccf46523 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1648390480 +0200	commit: added Constructor Chaining and isAdult method
+c4a78bda80d47350517fbfd618865f13ccf46523 064a6ac3171f6820c085cf5bd4ab56b2868c3a6b studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1648390845 +0200	commit: added Constructor Chaining
+064a6ac3171f6820c085cf5bd4ab56b2868c3a6b 56ee2475986e752dac089084b0872776ec622d15 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1648390958 +0200	commit: added Constructor Chaining
+56ee2475986e752dac089084b0872776ec622d15 26c1d771f5c1c36e2ba8a9356dfd550b5bcd81a5 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1648391719 +0200	commit: added Constructor Chaining
+26c1d771f5c1c36e2ba8a9356dfd550b5bcd81a5 00f2e79f8bbe5a7eeeb8248c3d806537be82df2a studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1648391767 +0200	commit: added Constructor Chaining and removed orders
+00f2e79f8bbe5a7eeeb8248c3d806537be82df2a 9b9e16c2b34f7f9a1274508c99f31c6d081a7cfe studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1648393211 +0200	commit: moved menu to new file and added startmenu()
+9b9e16c2b34f7f9a1274508c99f31c6d081a7cfe 4828fb474b0c3290a7f6a23d8b5229f161539090 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1648394031 +0200	pull undefined main: Fast-forward
+4828fb474b0c3290a7f6a23d8b5229f161539090 37a5411af23f54122f265173ec01b0edf7352bf0 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1648637644 +0200	pull undefined main: Fast-forward
+37a5411af23f54122f265173ec01b0edf7352bf0 c9862a0e20d7c0fa26127ef4ae4995b9b3dd4362 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1649435628 +0200	pull undefined main: Fast-forward
+c9862a0e20d7c0fa26127ef4ae4995b9b3dd4362 2706de5e4d4161f913c82dd0abba0db8ee3182a6 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1650075852 +0200	commit: Creazy -> Crazy, fleshed out the content of main(station, car, comments)
+2706de5e4d4161f913c82dd0abba0db8ee3182a6 154104b0a7d5c0f45a8141d20a9a6fc52ef0cca9 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651224251 +0200	pull undefined main: Fast-forward
+154104b0a7d5c0f45a8141d20a9a6fc52ef0cca9 ddb5d1730cb7c62b681ee76c1c7cb0a81e220cc9 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651230111 +0200	commit: added default constructor, setter
+ddb5d1730cb7c62b681ee76c1c7cb0a81e220cc9 33fd6e9ae9d03e30778b1fe2e7928f08daf939de studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651230194 +0200	commit: added default constructor/chaining, setter, compareTo. int -> double
+33fd6e9ae9d03e30778b1fe2e7928f08daf939de 8db44caf7b25a298888910caf6cf703446ebb2b2 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651230249 +0200	commit: privateered attributes, added default constructor/chaining, setters
+8db44caf7b25a298888910caf6cf703446ebb2b2 154f837764d04190b08e62d509f41a12539ed7aa studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651230311 +0200	commit: added default constructor/chaining, setters, compareTo. int -> double
+154f837764d04190b08e62d509f41a12539ed7aa 8db44caf7b25a298888910caf6cf703446ebb2b2 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651230857 +0200	reset: moving to HEAD~
+8db44caf7b25a298888910caf6cf703446ebb2b2 5d5b608cf6fd8e4eca753ea6efc1dea59026ca08 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651230865 +0200	commit: added default constructor/chaining, setters, compareTo. int -> double
+5d5b608cf6fd8e4eca753ea6efc1dea59026ca08 8db44caf7b25a298888910caf6cf703446ebb2b2 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651231047 +0200	reset: moving to HEAD~
+8db44caf7b25a298888910caf6cf703446ebb2b2 8daf62a442e59e2ecc25d950a688fc4c57141d3d studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651231056 +0200	commit: added default constructor/chaining, setters, compareTo. int -> double
+8daf62a442e59e2ecc25d950a688fc4c57141d3d 02be324d1fabec2866a47e123e83dc74f1284155 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651253850 +0200	commit: added toString()
+02be324d1fabec2866a47e123e83dc74f1284155 497b107f3b0ac7badf306edf2490c478a83349cc studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651253895 +0200	commit: added toString()
+497b107f3b0ac7badf306edf2490c478a83349cc 2176b96a039633f3f979fb0500c037f8cbf9a623 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651253930 +0200	commit: added toString()
+2176b96a039633f3f979fb0500c037f8cbf9a623 4dae3673818c030140e856c998cae34fd9416be7 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651253962 +0200	commit: added toString()
+4dae3673818c030140e856c998cae34fd9416be7 5f9ec56ae046ab6f90d075c21132d03d4be8e6f4 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651254016 +0200	commit: auto whitespace changes
+5f9ec56ae046ab6f90d075c21132d03d4be8e6f4 4b84118aa55abfcb41c2ba16ed7a1dfa2c3c8b5f studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651254306 +0200	commit: var names, + .toString, + .equals, fixes?, auto whitespace changes
+4b84118aa55abfcb41c2ba16ed7a1dfa2c3c8b5f c2b34ede1ac27fb1f10c2cd347b2ebdf2b05e640 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651254460 +0200	commit: changed name, split tests, filled and ran tests
+c2b34ede1ac27fb1f10c2cd347b2ebdf2b05e640 8a5b427e397c0e7f464a7df73524ad90b5c751d9 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651254578 +0200	commit: added static counter, constructors, setters/getters, WIP
+8a5b427e397c0e7f464a7df73524ad90b5c751d9 26eb8bbad205d36623d43f25010a9df4d14fad8a studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651254645 +0200	commit: auto whitespace changes
+26eb8bbad205d36623d43f25010a9df4d14fad8a aab66ba8ba156180645f2e2991b526fa5942cd63 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651254820 +0200	commit: adjusted prices, removed println statements, fixed var names
+aab66ba8ba156180645f2e2991b526fa5942cd63 f0597a30051a0a4d48c186e68742021336eaba89 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651325285 +0200	pull undefined main: Fast-forward
+f0597a30051a0a4d48c186e68742021336eaba89 b4977ece5b5597e198642048f883562868ddc5c0 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651325506 +0200	commit: added empty constructor
+b4977ece5b5597e198642048f883562868ddc5c0 f0597a30051a0a4d48c186e68742021336eaba89 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651325744 +0200	reset: moving to HEAD~
+f0597a30051a0a4d48c186e68742021336eaba89 b5618060ff24112287e06007d905ba850e5bd628 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651325786 +0200	commit: added empty constructor, fixed getTotalPrice
+b5618060ff24112287e06007d905ba850e5bd628 f0597a30051a0a4d48c186e68742021336eaba89 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651326427 +0200	reset: moving to HEAD~
+f0597a30051a0a4d48c186e68742021336eaba89 105fbe8cd1701b8c01c65bea1fe02b174b0e5159 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651326475 +0200	commit: added empty constructor, fixed getTotalPrice, added compareTo
+105fbe8cd1701b8c01c65bea1fe02b174b0e5159 c487ff0804004e001f1a0d12a4c5b888b20347db studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651329334 +0200	commit: added Id, constructor chaining, setter, getter
+c487ff0804004e001f1a0d12a4c5b888b20347db 1cd5042259f8a7c49de0fa78962673affc512aba studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651329366 +0200	commit: improved listTest, fixed orderTest, added reservationtest
+1cd5042259f8a7c49de0fa78962673affc512aba 95d03013d7774cd4298386a1c241e825aa071cc4 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651329474 +0200	pull undefined main: Merge made by the 'recursive' strategy.
+95d03013d7774cd4298386a1c241e825aa071cc4 a88b5dfc25cfe964c6e90a3c69e04f0ca438a611 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651330922 +0200	pull undefined main: Fast-forward
+a88b5dfc25cfe964c6e90a3c69e04f0ca438a611 5e52b2e9cc0f8330d73c15df55d0f74f77a49e93 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651348179 +0200	commit: implemented own list instead of arraylist, made classes comparable
+5e52b2e9cc0f8330d73c15df55d0f74f77a49e93 e1734015700d453893daed58e069b2a2e92cc602 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651434708 +0200	pull undefined main: Fast-forward
+e1734015700d453893daed58e069b2a2e92cc602 40d58b226136a2af253345fb3dcb9e6658049b0b studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1651662334 +0200	pull undefined main: Fast-forward
+40d58b226136a2af253345fb3dcb9e6658049b0b 31ac2ab2855bc888b0667f095cae5727d1c43e86 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1652182403 +0200	pull undefined main: Fast-forward
+31ac2ab2855bc888b0667f095cae5727d1c43e86 5caa6d50fcb2bf51f5ae08f20df789d067a39738 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1652182569 +0200	commit: added CrazyStation 2
+5caa6d50fcb2bf51f5ae08f20df789d067a39738 eacc5bb687f87f9011c625e2750d7d60f911ec5b studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1652865997 +0200	pull undefined main: Fast-forward
+eacc5bb687f87f9011c625e2750d7d60f911ec5b a133b59b05d6d72907ce64f3602a018b02efbd9d studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1652867267 +0200	pull undefined main: Fast-forward
+a133b59b05d6d72907ce64f3602a018b02efbd9d 60033717fc339fd0d240259a31f92342c4607e3e studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1652871410 +0200	pull undefined main: Fast-forward
+60033717fc339fd0d240259a31f92342c4607e3e 52831de9cb27e546db3c6a2ee79e10d550b8bef8 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1652890863 +0200	pull undefined main: Fast-forward
+52831de9cb27e546db3c6a2ee79e10d550b8bef8 36229b963cb9345c3964c20ca9f8e459038bd120 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1653375795 +0200	pull undefined main: Fast-forward
+36229b963cb9345c3964c20ca9f8e459038bd120 3f22f8c4bc1c4bbd9db3bb9cddeb7b575d6695f3 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1653385524 +0200	pull undefined main: Fast-forward
+3f22f8c4bc1c4bbd9db3bb9cddeb7b575d6695f3 bcd81fff8daa78c5126a71b5c37ef175fdfe7cd0 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1653476562 +0200	pull undefined main: Fast-forward
+bcd81fff8daa78c5126a71b5c37ef175fdfe7cd0 f819ab479a4b0f4fcc71ce75d7fafcea85ff0cd7 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1654097064 +0200	pull undefined main: Fast-forward
+f819ab479a4b0f4fcc71ce75d7fafcea85ff0cd7 f749696cdabf20fedabcae07889580e4b0ccc50d studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1654275894 +0200	commit: Denglisch begone
+f749696cdabf20fedabcae07889580e4b0ccc50d 54f45f86b03bab25c2e8924288f5132cb5b3ecc9 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1654333697 +0200	commit: avgAge: == -> .equals()
+54f45f86b03bab25c2e8924288f5132cb5b3ecc9 f749696cdabf20fedabcae07889580e4b0ccc50d studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1654333904 +0200	reset: moving to HEAD~
+f749696cdabf20fedabcae07889580e4b0ccc50d aefb1f50d27839f746de086725cb43af61191035 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1654333917 +0200	commit: Age fix: == -> .equals()
+aefb1f50d27839f746de086725cb43af61191035 786bf1478f02c2526c46ddb3b21d2c2910a0b5c5 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1654346623 +0200	commit: modified every method and added one
+786bf1478f02c2526c46ddb3b21d2c2910a0b5c5 f8aa59f9f74e1d981310872a49fdcfa4ccdb1e38 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1654347827 +0200	commit (merge): merged. you scared me luca
+f8aa59f9f74e1d981310872a49fdcfa4ccdb1e38 e2fb76099c0fb0e317d87876409acf724716e20f studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1654691751 +0200	commit: applied feedback. mostFrequent methods missing
+e2fb76099c0fb0e317d87876409acf724716e20f 6898bb9dad5c1da8ed11a867e45a8bbc8d58c207 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1654697025 +0200	commit: finished up
+6898bb9dad5c1da8ed11a867e45a8bbc8d58c207 762a30266c4cf6f46643d26abfe40c1d60c6851b studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1654774561 +0200	pull undefined main: Fast-forward
+762a30266c4cf6f46643d26abfe40c1d60c6851b d01c95538ad35faebd42368d87b751614bf0231e studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1655188087 +0200	pull undefined main: Fast-forward
+d01c95538ad35faebd42368d87b751614bf0231e fb69965793edf52c06156a4a32ce4e7bb8f52d54 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1655292378 +0200	commit: @BeforeAll TitanicAnalysis, new error thrown in switch case
+fb69965793edf52c06156a4a32ce4e7bb8f52d54 08940c0b8f58c391e7d3dc9b5bcbfc9ea2829956 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1655895520 +0200	pull undefined main: Fast-forward
+08940c0b8f58c391e7d3dc9b5bcbfc9ea2829956 3a4062e73d93c3ff8f3db2bf4d6b8da50eb9bcfe studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1655904933 +0200	commit: created 3 new abstract classes and moved attributes
+3a4062e73d93c3ff8f3db2bf4d6b8da50eb9bcfe efbac36a90acd415af346ab5a1f143d0714a8b71 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1655907472 +0200	commit: titanic throws declaration
+efbac36a90acd415af346ab5a1f143d0714a8b71 3aade15a15e1be5804f603d41779d5ba0fc1fc5d studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1655907521 +0200	commit: adjusted constructors
+3aade15a15e1be5804f603d41779d5ba0fc1fc5d 5a0b4a6625ee5e1fb2646c8bd1cf9f1589bb5167 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1655912295 +0200	commit: moved almost everything up. too much even?
+5a0b4a6625ee5e1fb2646c8bd1cf9f1589bb5167 ac3f81375276ffd4d0d2b296291dc9f3b0a82bb9 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1655912325 +0200	commit: uppermost class with most attributes and methods.
+ac3f81375276ffd4d0d2b296291dc9f3b0a82bb9 894ba77f75a8edd824810d92b710051b7921893e studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1655912369 +0200	commit: middle classes with some more specific functinoality. restTime is janky
+894ba77f75a8edd824810d92b710051b7921893e 90196818d289408c15c3200c25bbce3df1006fdc studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1655912419 +0200	commit: added restTime as parameter. maybe "this.#" is the smelly part
+90196818d289408c15c3200c25bbce3df1006fdc c1b1ee90a43fe4b3d96baae3ca2f6d1cc14bf120 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1656014827 +0200	pull undefined main: Fast-forward
+c1b1ee90a43fe4b3d96baae3ca2f6d1cc14bf120 f806b33024e075eaa4a688283751264371b913c6 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1656086384 +0200	pull undefined main: Fast-forward
+f806b33024e075eaa4a688283751264371b913c6 abee2dd276572d1015722771f1847f4a684b6510 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1656202025 +0200	pull undefined main: Fast-forward
+abee2dd276572d1015722771f1847f4a684b6510 5c5195a39d5e823701e093000a04eeff308688b4 studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1656524100 +0200	pull undefined main: Fast-forward
+5c5195a39d5e823701e093000a04eeff308688b4 231d036143ccc63afcb4f6346b24a10776f7e73c studhaasfe9685 <felix.haas@stud.th-rosenheim.de> 1657132113 +0200	pull undefined main: Fast-forward

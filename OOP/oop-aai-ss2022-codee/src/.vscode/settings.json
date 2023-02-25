@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Felix\\Desktop\\auf-zu-win-11\\th\\2022SS\\OOP\\oop-aai-ss2022-code\\lib\\junit-platform-console-standalone-1.8.2.jar"
+    ]
+}
